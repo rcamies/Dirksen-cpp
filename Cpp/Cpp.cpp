@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World! This is my repo\n";
+    std::cout << "Hello World! This is my repo too\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
