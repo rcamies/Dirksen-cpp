@@ -1,6 +1,6 @@
 
 // Header-file  dirksen.h  t.b.v. cursus "Programmeren in C++"
-
+#pragma warning(disable : 4996)
 
 #ifndef  dirksen_INCLUDED
 
