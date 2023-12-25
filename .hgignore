@@ -1,0 +1,17 @@
+syntax: glob
+*.exe
+Debug test app/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Debug test app/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+Debug test app/.vs/ProjectEvaluation/debug test app.projects.v7.bin
+Debug test app/.vs/ProjectEvaluation/debug test app.metadata.v7.bin
+Debug test app/.vs/Debug test app/v17/.suo
+Debug test app/*
+Debig Call Stack/*
+*.pdb
+*.tlog
+*.obj
+*.exe.recipe
+*.ilk
+*/Debug/*
+*/ipch/*
+ClassDebug/*
