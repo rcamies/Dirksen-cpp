@@ -18,3 +18,5 @@ ClassDebug/*
 Cpp-Dirksen/.vs/Cpp-Dirksen/*.vsidx
 *.vsidx
 *.VC.db
+*.db-wal
+*.db-shm
